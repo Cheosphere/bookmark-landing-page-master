@@ -152,7 +152,7 @@ a:hover {
         flex-direction: column;
         justify-content: space-between;
         position: absolute;
-        top: -100%;
+        top: -150%;
         left: 0;
         z-index: 10;
         background-color: hsla(229, 31%, 21%, 0.9);
