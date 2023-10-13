@@ -6,6 +6,8 @@ El desafío es construir esta landing page y hacer que se parezca lo más posibl
 - CSS
 - Vue JS - Composition API & Vite
 
+![desktop-preview](https://github.com/Cheosphere/bookmark-landing-page-master/assets/112582420/1dd15f95-06a8-407d-ae85-54873b75d474)
+
 # Guía de Estilo
 
 ## Diseño
