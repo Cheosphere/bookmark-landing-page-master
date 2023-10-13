@@ -158,7 +158,7 @@ a:hover {
     }
 
     a {
-        width: 160px;
+        width: 200px;
         padding: 1rem;
     }
 }
